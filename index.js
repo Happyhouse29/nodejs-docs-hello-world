@@ -3,7 +3,6 @@
 // https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/7-bank-project/api
 // ***************************************************************************
 
-("Hello World From Jenkins and Docke!");
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors')
